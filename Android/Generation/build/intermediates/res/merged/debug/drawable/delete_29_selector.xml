@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android"><item android:drawable="@drawable/delete_29_selectordisabled" android:state_enabled="false"/><item android:drawable="@drawable/delete_29_selectorpressed" android:state_pressed="true"/><item android:drawable="@drawable/delete_29_selectorfocus" android:state_focused="true"/><item android:drawable="@drawable/delete_29_selectornormal"/></selector>

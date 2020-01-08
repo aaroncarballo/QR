@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\anim\\slide_right_in.xml",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\anim\\slide_right_in.xml"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\anim\\slide_left_out.xml",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\anim\\slide_left_out.xml"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\anim\\separate_down_out.xml",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\anim\\separate_down_out.xml"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\anim\\slide_left_in.xml",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\anim\\slide_left_in.xml"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\anim\\separate_down_in.xml",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\anim\\separate_down_in.xml"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\anim\\overlap_up_out.xml",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\anim\\overlap_up_out.xml"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\anim\\flip_horizontal_out.xml",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\anim\\flip_horizontal_out.xml"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\anim\\overlap_up_in.xml",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\anim\\overlap_up_in.xml"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\anim\\flip_horizontal_in.xml",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\anim\\flip_horizontal_in.xml"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\anim\\slide_right_out.xml",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\anim\\slide_right_out.xml"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_slide_out_bottom.xml"
+    }
+]

@@ -1,0 +1,6 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+interface_hijos		NFI		new file
+InterfaseImagen		NFI		new file
+Tabla_interface		NFI		new file
+Tabla_InterfaseImagen		NFI		new file
+Interface		NFI		new file

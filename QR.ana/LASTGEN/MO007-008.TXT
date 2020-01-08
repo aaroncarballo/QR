@@ -1,0 +1,4 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+Usuarios		TAR	171	new record size: 171
+Usuarios	Bodega	RUB+		Bodega is a new item
+Usuarios	BodegaID	RUB-		key BodegaID deleted

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mycompany.qr"
+    android:installLocation="auto"
+    android:versionCode="10"
+    android:versionName="0.0.10.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="24" />
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-feature
+        android:name="android.hardware.touchscreen"
+        android:required="true" />
+
+    <application
+        android:name="fr.pcsoft.wdjava.core.application.WDAppManager"
+        android:icon="@drawable/logonkg_2"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:resizeableActivity="true" >
+        <activity
+            android:name="com.mycompany.qr.wdgen.GWDPQR$WDLanceur"
+            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout"
+            android:label="@string/app_name"
+            android:screenOrientation="sensor"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar.Translucent" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.mycompany.qr.wdgen.GWDFWIN_Consultar$WDActiviteFenetre"
+            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout"
+            android:hardwareAccelerated="false"
+            android:theme="@android:style/Theme" />
+        <activity
+            android:name="com.mycompany.qr.wdgen.GWDFWIN_Toma_Fisica$WDActiviteFenetre"
+            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout"
+            android:hardwareAccelerated="false"
+            android:theme="@android:style/Theme" />
+        <activity
+            android:name="com.mycompany.qr.wdgen.GWDFWIN_Detalle_Toma_Fisica$WDActiviteFenetre"
+            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout"
+            android:hardwareAccelerated="false"
+            android:theme="@android:style/Theme" />
+        <activity
+            android:name="com.mycompany.qr.wdgen.GWDFWIN_Registro$WDActiviteFenetre"
+            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout"
+            android:hardwareAccelerated="false"
+            android:theme="@android:style/Theme" />
+        <activity
+            android:name="com.mycompany.qr.wdgen.GWDFWIN_Enviar_Datos$WDActiviteFenetre"
+            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout"
+            android:hardwareAccelerated="false"
+            android:theme="@android:style/Theme" />
+        <activity
+            android:name="com.mycompany.qr.wdgen.GWDFWIN_Login$WDActiviteFenetre"
+            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout"
+            android:hardwareAccelerated="false"
+            android:theme="@android:style/Theme" />
+        <activity
+            android:name="com.mycompany.qr.wdgen.GWDFWIN_Detalle_Inventario$WDActiviteFenetre"
+            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout"
+            android:hardwareAccelerated="false"
+            android:theme="@android:style/Theme" />
+        <activity
+            android:name="com.mycompany.qr.wdgen.GWDFWIN_Crear_Toma_Fisica$WDActiviteFenetre"
+            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout"
+            android:hardwareAccelerated="false"
+            android:theme="@android:style/Theme" />
+        <activity
+            android:name="com.mycompany.qr.wdgen.GWDFWIN_Cargar$WDActiviteFenetre"
+            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout"
+            android:hardwareAccelerated="false"
+            android:theme="@android:style/Theme" />
+        <activity
+            android:name="com.mycompany.qr.wdgen.GWDFWIN_Cargar_Datos$WDActiviteFenetre"
+            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout"
+            android:hardwareAccelerated="false"
+            android:theme="@android:style/Theme" />
+        <activity
+            android:name="com.mycompany.qr.wdgen.GWDFWIN_Menu$WDActiviteFenetre"
+            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout"
+            android:hardwareAccelerated="false"
+            android:theme="@android:style/Theme" />
+        <activity
+            android:name="com.mycompany.qr.wdgen.GWDFWIN_Bajar$WDActiviteFenetre"
+            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout"
+            android:hardwareAccelerated="false"
+            android:theme="@android:style/Theme" />
+        <activity
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:name="fr.pcsoft.wdjava.core.erreur.report.WDErrorReportActivity"
+            android:theme="@android:style/Theme.DeviceDefault.Light" />
+        <activity
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:name="fr.pcsoft.wdjava.ui.activite.WDActivite$BlankActivity"
+            android:theme="@android:style/Theme.Translucent" />
+        <activity
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:name="fr.pcsoft.wdjava.net.oauth2.WDOAuth2Manager$OAuthActivity" />
+        <activity
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:name="fr.pcsoft.wdjava.ui.searchbar.WDSearchActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/searchable" />
+        </activity>
+
+        <provider
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:name="fr.pcsoft.wdjava.ui.searchbar.WDSearchHistory"
+            android:authorities="com.mycompany.qr" />
+
+        <service android:name="fr.pcsoft.wdjava.core.service.WDServiceLocal" />
+
+        <meta-data
+            android:name="fr.pcsoft.first_window_name"
+            android:value="WIN_Login" />
+        <meta-data
+            android:name="fr.pcsoft.multidex"
+            android:value="false" />
+    </application>
+
+</manifest>

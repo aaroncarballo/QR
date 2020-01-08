@@ -1,0 +1,5 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Parametros		NFI		new file
+Bodega		NFI		new file
+Inventario		NFI		new file
+TomaFisica		NFI		new file

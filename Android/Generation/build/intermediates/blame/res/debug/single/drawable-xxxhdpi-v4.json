@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\material_design_green_btn_std_20_np3_10_10_10_10_selector.xml",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xxxhdpi\\material_design_green_btn_std_20_np3_10_10_10_10_selector.xml"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\material_design_green_edt_22_np3_8_8_8_8_selector.xml",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xxxhdpi\\material_design_green_edt_22_np3_8_8_8_8_selector.xml"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\material_design_green_break_pict_24_selector.xml",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xxxhdpi\\material_design_green_break_pict_24_selector.xml"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\material_design_green_btn_menu_28_np3_10_10_10_10_selector.xml",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xxxhdpi\\material_design_green_btn_menu_28_np3_10_10_10_10_selector.xml"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\material_design_green_cbox_21_selector.xml",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xxxhdpi\\material_design_green_cbox_21_selector.xml"
+    }
+]

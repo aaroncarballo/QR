@@ -1,0 +1,6 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+Parametros		TAR	271	new record size: 271
+Parametros	wsutrl	RUB+		wsutrl is a new item
+Parametros	servidor	RUB+		servidor is a new item
+Parametros	instancia	RUB+		instancia is a new item
+Parametros	basededatos	RUB+		basededatos is a new item

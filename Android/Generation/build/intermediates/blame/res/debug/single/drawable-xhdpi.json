@@ -1,0 +1,394 @@
+[
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_share.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\ic_action_share.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_refresh.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\ic_action_refresh.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\wm_rupture_on.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\wm_rupture_on.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_camera.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\ic_action_camera.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\material_design_green_btn_menu_28_np3_10_10_10_10_selectorpressed.9.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\material_design_green_btn_menu_28_np3_10_10_10_10_selectorpressed.9.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\wm_table_filtre_sup.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\wm_table_filtre_sup.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\material_design_green_break_pict_24_selectorderoule.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\material_design_green_break_pict_24_selectorderoule.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_important.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\ic_action_important.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\material_design_green_btn_std_20_np3_10_10_10_10_selectorfocus.9.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\material_design_green_btn_std_20_np3_10_10_10_10_selectorfocus.9.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\material_design_green_btn_menu_28_np3_10_10_10_10_selectordisabled.9.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\material_design_green_btn_menu_28_np3_10_10_10_10_selectordisabled.9.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\wm_table_tri_asc.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\wm_table_tri_asc.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\wm_table_filtre_different.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\wm_table_filtre_different.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\material_design_green_edt_22_np3_8_8_8_8_selectorfocus.9.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\material_design_green_edt_22_np3_8_8_8_8_selectorfocus.9.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\material_design_green_cbox_21_selectorselected_normal.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\material_design_green_cbox_21_selectorselected_normal.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\material_design_green_edt_22_np3_8_8_8_8_selectornormal.9.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\material_design_green_edt_22_np3_8_8_8_8_selectornormal.9.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\material_design_green_edt_22_np3_8_8_8_8_selectordisabled.9.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\material_design_green_edt_22_np3_8_8_8_8_selectordisabled.9.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\material_design_green_btn_std_20_np3_10_10_10_10_selectordisabled.9.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\material_design_green_btn_std_20_np3_10_10_10_10_selectordisabled.9.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\wm_table_edit.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\wm_table_edit.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\wm_table_tri_desc.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\wm_table_tri_desc.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\wm_slidingmenu_shadow.9.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\wm_slidingmenu_shadow.9.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_collection.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\ic_action_collection.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_reply.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\ic_action_reply.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\error_wl.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\error_wl.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\material_design_green_edt_22_np3_8_8_8_8_selectorpressed.9.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\material_design_green_edt_22_np3_8_8_8_8_selectorpressed.9.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\material_design_green_table_colpict_27.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\material_design_green_table_colpict_27.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_discard.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\ic_action_discard.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_copy.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\ic_action_copy.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_email.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\ic_action_email.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_send_now.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\ic_action_send_now.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\material_design_green_btn_std_20_np3_10_10_10_10_selectornormal.9.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\material_design_green_btn_std_20_np3_10_10_10_10_selectornormal.9.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\material_design_green_cbox_21_selectorunselected_pressed.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\material_design_green_cbox_21_selectorunselected_pressed.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\material_design_green_break_pict_24_selectorenroule.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\material_design_green_break_pict_24_selectorenroule.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\wm_slidingmenu_indicator.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\wm_slidingmenu_indicator.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\material_design_green_cbox_21_selectorunselected_normal.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\material_design_green_cbox_21_selectorunselected_normal.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\wm_table_filtre_inf.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\wm_table_filtre_inf.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\material_design_green_btn_menu_28_np3_10_10_10_10_selectornormal.9.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\material_design_green_btn_menu_28_np3_10_10_10_10_selectornormal.9.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\material_design_green_cbox_21_selectorunselected_disabled.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\material_design_green_cbox_21_selectorunselected_disabled.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_play.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\ic_action_play.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_focused_holo.9.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\wm_clear_text_button.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\wm_clear_text_button.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_pause.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\ic_action_pause.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\wm_table_valid.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\wm_table_valid.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_next.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\ic_action_next.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\material_design_green_btn_std_20_np3_10_10_10_10_selectorpressed.9.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\material_design_green_btn_std_20_np3_10_10_10_10_selectorpressed.9.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\material_design_green_cbox_table_25.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\material_design_green_cbox_table_25.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\material_design_green_cbox_21_selectorselected_disabled.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\material_design_green_cbox_21_selectorselected_disabled.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\wm_table_recherche.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\wm_table_recherche.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\wm_table_filtre_egal.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\wm_table_filtre_egal.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_previous.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\ic_action_previous.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\wm_table_filtre.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\wm_table_filtre.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\wm_rupture_off.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\wm_rupture_off.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_edit.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\ic_action_edit.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_remove.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\ic_action_remove.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_search.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\material_design_green_rollover_26.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\material_design_green_rollover_26.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\material_design_green_cbox_21_selectorselected_focus.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\material_design_green_cbox_21_selectorselected_focus.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\material_design_green_btn_menu_28_np3_10_10_10_10_selectorfocus.9.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\material_design_green_btn_menu_28_np3_10_10_10_10_selectorfocus.9.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_new.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\ic_action_new.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_clear_mtrl_alpha.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\wm_table_cancel.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\wm_table_cancel.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\material_design_green_cbox_21_selectorunselected_focus.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\material_design_green_cbox_21_selectorunselected_focus.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\material_design_green_cbox_21_selectorselected_pressed.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\res\\drawable-xhdpi\\material_design_green_cbox_21_selectorselected_pressed.png"
+    },
+    {
+        "merged": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\My Mobile Projects\\QR\\Android\\Generation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    }
+]

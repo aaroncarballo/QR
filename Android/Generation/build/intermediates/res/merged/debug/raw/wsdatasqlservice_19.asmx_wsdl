@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://ndf.com/Recibos" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" targetNamespace="http://ndf.com/Recibos" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://ndf.com/Recibos">
+      <s:element name="LeerTabla">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="usuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="clave" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="servidor" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="instancia" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="basededatos" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="tabla" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="campos" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="where" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="order" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="conarchivo" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="LeerTablaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="LeerTablaResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="LeerTablacomp">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="servidor" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="basededatos" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="tabla" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="campos" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="where" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="LeerTablacompResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="LeerTablacompResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UploadImageBase64">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ImgStr" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="ImageName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="path" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UploadImageBase64Response">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="UploadImageBase64Result" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DownloadFile">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="FName" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="parte" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DownloadFileResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="DownloadFileResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="FileDelete">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="FName" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="FileDeleteResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="FileDeleteResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SQLRecord">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="usuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="clave" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="servidor" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="instancia" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="basededatos" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="tipo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="tabla" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="campos" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="valores" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="where" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="id" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SQLRecordResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SQLRecordResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="LeerInventario">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="usuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="clave" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="basededatos" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="codigo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="fecha" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="LeerInventarioResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="LeerInventarioResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="LeerMovimientos">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="usuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="clave" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="basededatos" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="codigo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="fechainicial" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="fechafinal" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="tipos" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="LeerMovimientosResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="LeerMovimientosResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="LeerTablaSoapIn">
+    <wsdl:part name="parameters" element="tns:LeerTabla" />
+  </wsdl:message>
+  <wsdl:message name="LeerTablaSoapOut">
+    <wsdl:part name="parameters" element="tns:LeerTablaResponse" />
+  </wsdl:message>
+  <wsdl:message name="LeerTablacompSoapIn">
+    <wsdl:part name="parameters" element="tns:LeerTablacomp" />
+  </wsdl:message>
+  <wsdl:message name="LeerTablacompSoapOut">
+    <wsdl:part name="parameters" element="tns:LeerTablacompResponse" />
+  </wsdl:message>
+  <wsdl:message name="UploadImageBase64SoapIn">
+    <wsdl:part name="parameters" element="tns:UploadImageBase64" />
+  </wsdl:message>
+  <wsdl:message name="UploadImageBase64SoapOut">
+    <wsdl:part name="parameters" element="tns:UploadImageBase64Response" />
+  </wsdl:message>
+  <wsdl:message name="DownloadFileSoapIn">
+    <wsdl:part name="parameters" element="tns:DownloadFile" />
+  </wsdl:message>
+  <wsdl:message name="DownloadFileSoapOut">
+    <wsdl:part name="parameters" element="tns:DownloadFileResponse" />
+  </wsdl:message>
+  <wsdl:message name="FileDeleteSoapIn">
+    <wsdl:part name="parameters" element="tns:FileDelete" />
+  </wsdl:message>
+  <wsdl:message name="FileDeleteSoapOut">
+    <wsdl:part name="parameters" element="tns:FileDeleteResponse" />
+  </wsdl:message>
+  <wsdl:message name="SQLRecordSoapIn">
+    <wsdl:part name="parameters" element="tns:SQLRecord" />
+  </wsdl:message>
+  <wsdl:message name="SQLRecordSoapOut">
+    <wsdl:part name="parameters" element="tns:SQLRecordResponse" />
+  </wsdl:message>
+  <wsdl:message name="LeerInventarioSoapIn">
+    <wsdl:part name="parameters" element="tns:LeerInventario" />
+  </wsdl:message>
+  <wsdl:message name="LeerInventarioSoapOut">
+    <wsdl:part name="parameters" element="tns:LeerInventarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="LeerMovimientosSoapIn">
+    <wsdl:part name="parameters" element="tns:LeerMovimientos" />
+  </wsdl:message>
+  <wsdl:message name="LeerMovimientosSoapOut">
+    <wsdl:part name="parameters" element="tns:LeerMovimientosResponse" />
+  </wsdl:message>
+  <wsdl:portType name="WSDataSQLServiceSoap">
+    <wsdl:operation name="LeerTabla">
+      <wsdl:input message="tns:LeerTablaSoapIn" />
+      <wsdl:output message="tns:LeerTablaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="LeerTablacomp">
+      <wsdl:input message="tns:LeerTablacompSoapIn" />
+      <wsdl:output message="tns:LeerTablacompSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UploadImageBase64">
+      <wsdl:input message="tns:UploadImageBase64SoapIn" />
+      <wsdl:output message="tns:UploadImageBase64SoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DownloadFile">
+      <wsdl:input message="tns:DownloadFileSoapIn" />
+      <wsdl:output message="tns:DownloadFileSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="FileDelete">
+      <wsdl:input message="tns:FileDeleteSoapIn" />
+      <wsdl:output message="tns:FileDeleteSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SQLRecord">
+      <wsdl:input message="tns:SQLRecordSoapIn" />
+      <wsdl:output message="tns:SQLRecordSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="LeerInventario">
+      <wsdl:input message="tns:LeerInventarioSoapIn" />
+      <wsdl:output message="tns:LeerInventarioSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="LeerMovimientos">
+      <wsdl:input message="tns:LeerMovimientosSoapIn" />
+      <wsdl:output message="tns:LeerMovimientosSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WSDataSQLServiceSoap" type="tns:WSDataSQLServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="LeerTabla">
+      <soap:operation soapAction="http://ndf.com/Recibos/LeerTabla" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LeerTablacomp">
+      <soap:operation soapAction="http://ndf.com/Recibos/LeerTablacomp" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UploadImageBase64">
+      <soap:operation soapAction="http://ndf.com/Recibos/UploadImageBase64" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DownloadFile">
+      <soap:operation soapAction="http://ndf.com/Recibos/DownloadFile" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FileDelete">
+      <soap:operation soapAction="http://ndf.com/Recibos/FileDelete" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SQLRecord">
+      <soap:operation soapAction="http://ndf.com/Recibos/SQLRecord" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LeerInventario">
+      <soap:operation soapAction="http://ndf.com/Recibos/LeerInventario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LeerMovimientos">
+      <soap:operation soapAction="http://ndf.com/Recibos/LeerMovimientos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WSDataSQLServiceSoap12" type="tns:WSDataSQLServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="LeerTabla">
+      <soap12:operation soapAction="http://ndf.com/Recibos/LeerTabla" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LeerTablacomp">
+      <soap12:operation soapAction="http://ndf.com/Recibos/LeerTablacomp" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UploadImageBase64">
+      <soap12:operation soapAction="http://ndf.com/Recibos/UploadImageBase64" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DownloadFile">
+      <soap12:operation soapAction="http://ndf.com/Recibos/DownloadFile" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FileDelete">
+      <soap12:operation soapAction="http://ndf.com/Recibos/FileDelete" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SQLRecord">
+      <soap12:operation soapAction="http://ndf.com/Recibos/SQLRecord" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LeerInventario">
+      <soap12:operation soapAction="http://ndf.com/Recibos/LeerInventario" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LeerMovimientos">
+      <soap12:operation soapAction="http://ndf.com/Recibos/LeerMovimientos" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WSDataSQLService">
+    <wsdl:port name="WSDataSQLServiceSoap" binding="tns:WSDataSQLServiceSoap">
+      <soap:address location="http://190.5.117.28/wsdatasql/wsdatasqlservice.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WSDataSQLServiceSoap12" binding="tns:WSDataSQLServiceSoap12">
+      <soap12:address location="http://190.5.117.28/wsdatasql/wsdatasqlservice.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

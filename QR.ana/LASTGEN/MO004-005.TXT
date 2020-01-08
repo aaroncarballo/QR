@@ -1,0 +1,9 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+Parametros		TAR	17	new record size: 17
+Parametros	NombreUsuario	RUB-		item NombreUsuario deleted
+Parametros	Password	RUB-		item Password deleted
+Parametros	Sesion	RUB-		item Sesion deleted
+Parametros	FK_BodegaID	RUB-		key FK_BodegaID deleted
+Usuarios		NFI		new file
+Constraint_Bodega_Usuarios		NWL	Bodega (BodegaID) and Usuarios (BodegaID)	New link between Bodega (BodegaID) and Usuarios (BodegaID) files
+Constraint_Bodega_Parametros		DEL	Bodega (BodegaID) and Parametros (FK_BodegaID)	Link deleted between Bodega (BodegaID) and Parametros (FK_BodegaID) files

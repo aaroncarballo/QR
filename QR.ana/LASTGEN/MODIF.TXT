@@ -1,0 +1,3 @@
+//MO008-009.TXT ANA00008 TO ANA00009
+Usuarios		TAR	222	new record size: 222
+Usuarios	Ip	RUB+		Ip is a new item

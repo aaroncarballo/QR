@@ -1,0 +1,3 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+Parametros		TAR	128	new record size: 128
+Parametros	Sesion	RUB+		Sesion is a new item

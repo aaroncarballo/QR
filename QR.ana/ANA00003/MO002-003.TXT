@@ -1,0 +1,4 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+Parametros		TAR	127	new record size: 127
+Parametros	FK_BodegaID	RUB+		FK_BodegaID is a new key
+Constraint_Bodega_Parametros		NWL	Bodega (BodegaID) and Parametros (FK_BodegaID)	New link between Bodega (BodegaID) and Parametros (FK_BodegaID) files

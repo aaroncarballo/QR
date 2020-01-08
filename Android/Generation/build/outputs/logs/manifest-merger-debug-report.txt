@@ -1,0 +1,273 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:1-5521
+	package
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:70-96
+	android:versionName
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:97-127
+		INJECTED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml
+		INJECTED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:128-152
+		INJECTED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml
+		INJECTED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:153-183
+application
+ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:184-5064
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\My Mobile Projects\QR\Android\Generation\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] C:\My Mobile Projects\QR\Android\Generation\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:259-291
+	android:resizeableActivity
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:353-386
+	android:icon
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:292-326
+	android:largeHeap
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:327-351
+	android:name
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:197-258
+activity#com.mycompany.qr.wdgen.GWDPQR$WDLanceur
+ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:387-828
+	android:screenOrientation
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:641-675
+	android:label
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:436-468
+	android:configChanges
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:538-640
+	android:theme
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:469-537
+	android:name
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:397-435
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:676-817
+action#android.intent.action.MAIN
+ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:691-742
+	android:name
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:699-740
+category#android.intent.category.LAUNCHER
+ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:742-801
+	android:name
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:752-799
+activity#com.mycompany.qr.wdgen.GWDFWIN_Consultar$WDActiviteFenetre
+ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:828-1073
+	android:hardwareAccelerated
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:1036-1071
+	android:configChanges
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:896-998
+	android:theme
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:999-1035
+	android:name
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:838-895
+activity#com.mycompany.qr.wdgen.GWDFWIN_Toma_Fisica$WDActiviteFenetre
+ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:1073-1320
+	android:hardwareAccelerated
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:1283-1318
+	android:configChanges
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:1143-1245
+	android:theme
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:1246-1282
+	android:name
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:1083-1142
+activity#com.mycompany.qr.wdgen.GWDFWIN_Detalle_Toma_Fisica$WDActiviteFenetre
+ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:1320-1575
+	android:hardwareAccelerated
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:1538-1573
+	android:configChanges
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:1398-1500
+	android:theme
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:1501-1537
+	android:name
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:1330-1397
+activity#com.mycompany.qr.wdgen.GWDFWIN_Registro$WDActiviteFenetre
+ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:1575-1819
+	android:hardwareAccelerated
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:1782-1817
+	android:configChanges
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:1642-1744
+	android:theme
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:1745-1781
+	android:name
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:1585-1641
+activity#com.mycompany.qr.wdgen.GWDFWIN_Enviar_Datos$WDActiviteFenetre
+ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:1819-2067
+	android:hardwareAccelerated
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:2030-2065
+	android:configChanges
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:1890-1992
+	android:theme
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:1993-2029
+	android:name
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:1829-1889
+activity#com.mycompany.qr.wdgen.GWDFWIN_Login$WDActiviteFenetre
+ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:2067-2308
+	android:hardwareAccelerated
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:2271-2306
+	android:configChanges
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:2131-2233
+	android:theme
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:2234-2270
+	android:name
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:2077-2130
+activity#com.mycompany.qr.wdgen.GWDFWIN_Detalle_Inventario$WDActiviteFenetre
+ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:2308-2562
+	android:hardwareAccelerated
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:2525-2560
+	android:configChanges
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:2385-2487
+	android:theme
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:2488-2524
+	android:name
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:2318-2384
+activity#com.mycompany.qr.wdgen.GWDFWIN_Crear_Toma_Fisica$WDActiviteFenetre
+ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:2562-2815
+	android:hardwareAccelerated
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:2778-2813
+	android:configChanges
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:2638-2740
+	android:theme
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:2741-2777
+	android:name
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:2572-2637
+activity#com.mycompany.qr.wdgen.GWDFWIN_Cargar$WDActiviteFenetre
+ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:2815-3057
+	android:hardwareAccelerated
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:3020-3055
+	android:configChanges
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:2880-2982
+	android:theme
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:2983-3019
+	android:name
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:2825-2879
+activity#com.mycompany.qr.wdgen.GWDFWIN_Cargar_Datos$WDActiviteFenetre
+ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:3057-3305
+	android:hardwareAccelerated
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:3268-3303
+	android:configChanges
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:3128-3230
+	android:theme
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:3231-3267
+	android:name
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:3067-3127
+activity#com.mycompany.qr.wdgen.GWDFWIN_Menu$WDActiviteFenetre
+ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:3305-3545
+	android:hardwareAccelerated
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:3508-3543
+	android:configChanges
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:3368-3470
+	android:theme
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:3471-3507
+	android:name
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:3315-3367
+activity#com.mycompany.qr.wdgen.GWDFWIN_Bajar$WDActiviteFenetre
+ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:3545-3786
+	android:hardwareAccelerated
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:3749-3784
+	android:configChanges
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:3609-3711
+	android:theme
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:3712-3748
+	android:name
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:3555-3608
+activity#fr.pcsoft.wdjava.core.erreur.report.WDErrorReportActivity
+ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:3786-3986
+	xmlns:android
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:3796-3854
+	android:theme
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:3928-3984
+	android:name
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:3855-3927
+activity#fr.pcsoft.wdjava.ui.activite.WDActivite$BlankActivity
+ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:3986-4174
+	xmlns:android
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:3996-4054
+	android:theme
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:4124-4172
+	android:name
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:4055-4123
+activity#fr.pcsoft.wdjava.net.oauth2.WDOAuth2Manager$OAuthActivity
+ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:4174-4317
+	xmlns:android
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:4184-4242
+	android:name
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:4243-4315
+activity#fr.pcsoft.wdjava.ui.searchbar.WDSearchActivity
+ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:4317-4661
+	android:label
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:4448-4480
+	xmlns:android
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:4327-4385
+	android:name
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:4386-4447
+intent-filter#android.intent.action.SEARCH
+ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:4481-4565
+action#android.intent.action.SEARCH
+ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:4496-4549
+	android:name
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:4504-4547
+meta-data#android.app.searchable
+ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:4565-4650
+	android:resource
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:4614-4648
+	android:name
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:4576-4613
+provider#fr.pcsoft.wdjava.ui.searchbar.WDSearchHistory
+ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:4661-4831
+	android:authorities
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:4791-4829
+	xmlns:android
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:4671-4729
+	android:name
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:4730-4790
+service#fr.pcsoft.wdjava.core.service.WDServiceLocal
+ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:4831-4901
+	android:name
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:4840-4899
+meta-data#fr.pcsoft.first_window_name
+ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:4901-4982
+	android:value
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:4955-4980
+	android:name
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:4912-4954
+meta-data#fr.pcsoft.multidex
+ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:4982-5050
+	android:value
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:5027-5048
+	android:name
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:4993-5026
+uses-sdk
+ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:5064-5132
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\My Mobile Projects\QR\Android\Generation\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] C:\My Mobile Projects\QR\Android\Generation\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:5101-5130
+	android:minSdkVersion
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:5074-5100
+supports-screens
+ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:5132-5291
+	android:largeScreens
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:5207-5234
+	android:smallScreens
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:5150-5177
+	android:normalScreens
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:5178-5206
+	android:xlargeScreens
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:5235-5263
+	android:anyDensity
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:5264-5289
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:5291-5366
+	android:name
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:5308-5364
+uses-permission#android.permission.INTERNET
+ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:5366-5427
+	android:name
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:5383-5425
+uses-feature#android.hardware.touchscreen
+ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:5427-5510
+	android:required
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:5485-5508
+	android:name
+		ADDED from C:\My Mobile Projects\QR\Android\Generation\AndroidManifest.xml:2:5441-5484
